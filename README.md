@@ -1,4 +1,4 @@
-# Netflix-Exploratory-Data-Analysis
+# Netflix Exploratory Data Analysis
 EDA on the Netflix Dataset
 
 To View the fully rendered plots for the analysis, here is the link to NBviewer :
